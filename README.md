@@ -10,9 +10,9 @@
 ### Connect with me:
 
 &nbsp;&nbsp;
-[![website](https://img.shields.io/badge/LinkedIn-LinkedIn-blue)](https://www.linkedin.com/in/mateuszbarwicki/)
+[![website](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateuszbarwicki/)
 &nbsp;&nbsp;
-[![website]("https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white")](mailto:mateuszbarwicki2@gmail.com)
+[![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbarwicki2@gmail.com)
 
 ### Languages and Tools:
 
