@@ -1,6 +1,6 @@
 # Hi there, I'm Mateusz - aka Persiwal
 
-## I'm a passionate junior developer!
+## I'm a passionate frontend developer!
 
 - 🌱 I’m currently learning React
 - 📜 2022 Learning roadmap: Redux, MUI/Tailwind, Some testing tool, Typescript, Next.js
