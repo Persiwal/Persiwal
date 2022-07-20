@@ -2,8 +2,8 @@
 
 ## I'm a passionate frontend developer!
 
-- 🌱 I’m currently learning React
-- 📜 2022 Learning roadmap: Redux, MUI/Tailwind, Some testing tool, Typescript, Next.js
+- 🌱 I’m currently learning React, Typescript & Redux
+- 📜 2022 Learning roadmap: MUI/Tailwind, Some testing tool, Next.js
 - 🥅 2022 Goals: Land my first frontend developer job
 - ⚡ Fun fact: I like playing volleball and working out
 
