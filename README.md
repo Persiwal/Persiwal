@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NextJS
   <!-- - 📜 2022 Learning roadmap: Node -->
   <!-- - 🥅 2022 Goals: Land my first frontend developer job -->
-- ⚡ Fun fact: I like to play volleyball and work oute
+- ⚡ Fun fact: I like to play volleyball and work out
 
 ### Connect with me:
 
