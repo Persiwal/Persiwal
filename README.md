@@ -2,10 +2,10 @@
 
 ## I'm a passionate frontend developer!
 
-- 🌱 I’m currently learning Typescript, Node.js
+- 🌱 I’m currently learning NextJS
   <!-- - 📜 2022 Learning roadmap: Node -->
   <!-- - 🥅 2022 Goals: Land my first frontend developer job -->
-- ⚡ Fun fact: I like playing volleball and working out
+- ⚡ Fun fact: I like to play volleyball and work oute
 
 ### Connect with me:
 
