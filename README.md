@@ -25,7 +25,7 @@
 
 <br/>
 
-  <summary>GitHub Stats</summary>
+### Github Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Persiwal&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/Persiwal)
 
