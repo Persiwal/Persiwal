@@ -16,7 +16,7 @@
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,postman,nodejs,express,mongodb,vscode,jest,materialui,webpack,redux,figma,firebase,git,github,jest,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,postman,nodejs,express,mongodb,vscode,jest,materialui,webpack,redux,figma,firebase,git,github,jest,vercel&perline=11)](https://skillicons.dev)
 
   <summary>:zap: GitHub Stats</summary>
 
