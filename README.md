@@ -9,6 +9,7 @@
 - ⚡ Fun fact: I like to play volleyball and work out
 
 <br/>
+
 ### Connect with me:
 
 &nbsp;&nbsp;
@@ -17,11 +18,13 @@
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbarwicki2@gmail.com)
 
 <br/>
+
 ### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,postman,nodejs,express,mongodb,vscode,jest,materialui,webpack,redux,figma,firebase,git,github,jest,vercel&perline=11)](https://skillicons.dev)
 
 <br/>
+
   <summary>:zap: GitHub Stats</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Persiwal&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/Persiwal)
