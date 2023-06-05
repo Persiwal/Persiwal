@@ -1,5 +1,7 @@
 # Hi there, I'm Mateusz - aka Persiwal
 
+<br/>
+
 ## I'm a passionate frontend developer!
 
 - 🌱 I’m currently learning NextJS
@@ -7,12 +9,16 @@
   <!-- - 🥅 2022 Goals: Land my first frontend developer job -->
 - ⚡ Fun fact: I like to play volleyball and work out
 
+<br/>
+
 ### Connect with me:
 
 &nbsp;&nbsp;
 [![website](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mateuszbarwicki/)
 &nbsp;&nbsp;
 [![website](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateuszbarwicki2@gmail.com)
+
+</br>
 
 ### Languages and Tools:
 
